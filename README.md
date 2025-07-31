@@ -77,4 +77,4 @@ Add segmentation support
 
 Build a web interface for predictions
 
-Hyperparameter tuning and cross-validation
+Hyperparameter tuning and cross-validation. 
